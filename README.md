@@ -13,12 +13,12 @@ Hy I am Jujun Jamaludin
 <details>
   <summary><b>📈Works And Projects</b></summary>
   <br/>
-  - sept 2021 - now ~ <a href="https://kurmamedia.com">Programmer At Kurmamedia Technology</a>
+  - Sept 2021 : Now ~ <a href="https://kurmamedia.com">Programmer At Kurmamedia Technology</a>
   <br/>
-  - apr 2021 - june 2021 ~ Programmer At Biomedia</a>
+  - Apr 2021 : June 2021 ~ Programmer At Biomedika</a>
   <br/>
-  - sept 2019 - now ~ <a href="https://jnpulsa.com">JNpulsa</a>
+  - Sept 2019 : Now ~ <a href="https://jnpulsa.com">JNpulsa</a>
   <br/>
-  - june 2016 - now ~ <a href="https://www.youtube.com/c/ofkumpul4semut/">YT Content Creator</a>
+  - June 2016 : Now ~ <a href="https://www.youtube.com/c/ofkumpul4semut/">YT Content Creator</a>
   </a>
 </details>
