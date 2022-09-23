@@ -1,4 +1,4 @@
-# Assalamualaikum warahmatullahi wabarakatuh <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 
+### Assalamualaikum warahmatullahi wabarakatuh <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 
 Hy I am Jujun Jamaludin
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Node JS, Python
