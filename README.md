@@ -14,8 +14,11 @@ Hy I am Jujun Jamaludin
   <summary><b>📈Works And Projects</b></summary>
   <br/>
   - sept 2021 - now ~ <a href="https://kurmamedia.com">Programmer At Kurmamedia Technology</a>
+  <br/>
   - apr 2021 - june 2021 ~ Programmer At Biomedia</a>
+  <br/>
   - sept 2019 - now ~ <a href="https://jnpulsa.com">JNpulsa</a>
+  <br/>
   - june 2016 - now ~ <a href="https://www.youtube.com/c/ofkumpul4semut/">YT Content Creator</a>
   </a>
 </details>
